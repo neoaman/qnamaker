@@ -1,0 +1,22 @@
+#home_layout{
+    position:reactive;
+    height:93vh;
+}
+
+#left_sidebar{
+    position:reactive;
+    border-right:3px solid gray;
+    height:93vh;
+}
+
+#right_sidebar{
+    position:reactive;
+    border-right:3px solid gray;
+    height:93vh;
+}
+
+#main_content{
+    position:reactive;
+    border-right:1px solid gray;
+    height:93vh;
+}
