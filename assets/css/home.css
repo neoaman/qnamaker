@@ -1,10 +1,9 @@
 #home_layout{
-    position:reactive;
+    position:relative;
     height:93vh;
 }
-
 #left_sidebar{
-    position:reactive;
+    position:relative;
     border-right:3px solid gray;
     height:93vh;
 }

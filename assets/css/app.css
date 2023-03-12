@@ -6,3 +6,23 @@
     height:100vh;
     overflow: hidden;
 }
+
+.overflow_height {
+    border-left: 5px solid #f1f1f1;
+    overflow-y: scroll;
+    overflow-x: hidden;
+    height: 93vh;
+}
+.overflow_height::-webkit-scrollbar{
+    width: 5px;
+    background: #f1f1f1;
+}
+
+#output_logs {
+    max-height: 100px;
+    overflow: hidden;
+    color: azure;
+    background: darkslategray;
+    padding: 10px;
+    border-radius: 5px;
+}

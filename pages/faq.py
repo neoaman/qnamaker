@@ -1,7 +1,6 @@
 import dash
 from dash import get_app, get_asset_url
 from dash import html, dcc
-from dash_extensions.enrich import Output, Input, State, ALL, MATCH
 from dash.exceptions import PreventUpdate
 
 import dash_bootstrap_components as dbc

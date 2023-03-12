@@ -1,0 +1,1 @@
+from .mongo_ops import insert_qna, get_qna

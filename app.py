@@ -15,7 +15,7 @@ app = Dash(__name__, use_pages=True, external_stylesheets=[dbc.themes.BOOTSTRAP,
 
 
 APP_LOGO = "https://images.plot.ly/logo/new-branding/plotly-logomark.png"
-APP_NAME = "DaskLyShade"
+APP_NAME = "QnA-Maker"
 
 #---------------------------------------Base Layout---------------------------------------------
 app.layout =  html.Div([
